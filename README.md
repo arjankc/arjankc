@@ -79,12 +79,31 @@ Welcome to my GitHub space! I’m an educator, digital strategist, and lifelong 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arjankc&show_icons=true&theme=radical" alt="Arjan KC's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjankc&layout=compact&theme=radical" alt="Arjan KC's Top Languages"/>
+</p>
+
+---
+
 ## 📫 Let’s Connect
 
-- 🌐 [Website – Gurkha Technology](https://gurkhatechnology.com)  
-- 🌐 [Personal Website & Blog](http://arjankc.com.np/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arjankc)  
-- 📬 arjankc [at] gmail [dot] com
+<p align="left">
+    <a href="https://gurkhatechnology.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Website-Gurkha_Technology-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Gurkha Technology Website">
+    </a>
+    <a href="http://arjankc.com.np/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Website-Personal_Blog-red?style=for-the-badge&logo=blogger&logoColor=white" alt="Personal Website & Blog">
+    </a>
+    <a href="https://www.linkedin.com/in/arjankc" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:arjankc@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+</p>
 
 Thanks for stopping by! If you find any project interesting, feel free to fork, star, or reach out.  
 Let's learn and build together. 🚀
