@@ -6,7 +6,7 @@ Welcome to my GitHub space! I’m an educator, digital strategist, and lifelong 
 
 ## 🔧 What I Do
 
-- 🚀 Lead Digital Strategy @ Gurkha Technology  
+- 🚀 Lead Digital Strategy @GurkhaTechnology  
 - 👨‍🏫 Teach Business Information Systems & Digital Marketing  
 - 🧪 Explore EdTech, Public Administration, and Open Source  
 - 🌱 Guide interns and mentor tech enthusiasts  
